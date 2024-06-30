@@ -1,0 +1,86 @@
+.a{
+    background-color: black;
+    color: white;
+    
+  margin: auto;
+  padding-top: 0%;
+}
+body{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+
+}
+.container{
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+}
+.bg-body-tertiary{
+    background-color: black;
+}
+.jumbotron{
+    background-color: white;
+}
+.container .jumbotron td {
+    
+    height: 300px;
+    width: 560px;
+
+}
+.bb img{
+    width:100% ;
+    height: 84%;
+}
+
+.b{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    margin: auto;
+}
+.one td{
+height: 300px;
+width: 20em;
+text-align: center;
+margin: auto;
+}
+.d img{
+    height: 180px;
+    width: 90%;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+    padding-left: 20px;
+}
+.d{
+    height: 250px;
+    width: 20%;
+}
+.one{
+    background-color: aqua;
+    
+}
+
+hr{
+    color: white;
+}
+h3{
+    color: white;
+}
+.btn{
+    background-color: rgb(233, 76, 102);
+}
+
+
+.cart img{
+    height: 40px;
+    color: black;
+}
+#login{
+    height: 3px;
+}
+.items{
+    background-color: aqua;
+}
